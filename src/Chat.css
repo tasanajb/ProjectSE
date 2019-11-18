@@ -1,0 +1,207 @@
+.AppChat {
+  text-align: center;
+  height: 1000px;
+  margin: auto;
+  width: 100%;
+}
+
+.chatContainer{
+  width:65%;
+  margin:-57% 20%;
+  padding: 0.5% 10%;
+  height: 90%;
+  position:absolute;
+  border:black;
+  border-radius:5px 5px 5px 5px ;
+  border: 1.5px solid #aaa;
+ 
+}
+
+.chatTopBar{
+  height: 70px;
+  font-size: 18px;
+  background:#ffefef;
+  border: 8px coler;
+  position: relative;
+  color:#50322A;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+  text-align:center;
+  border: 1.5px solid #aaa;
+}
+
+.chatUser{
+  height: 70px;
+  font-size: 16px;
+  background:#e6e6e6;
+  border: 8px coler;
+  position: relative;
+  color:#50322A;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+  text-align:center;
+  border: 1.5px solid #aaa;
+}
+
+
+.selectchatUser{
+  height: 70px;
+  font-size: 16px;
+  background: #bebebe;
+  border: 8px coler;
+  position: relative;
+  color:#50322A;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+  text-align:center;
+  border: 1.5px solid #aaa;
+}
+
+.chatarea{
+  background-color:white;
+}
+
+.day {
+  background-color: #e6e6e6; 
+  color: black;
+  text-align: center;
+  font-size: 12px;
+  margin: 1% 46%;
+  border-radius: 12px;
+  padding: 0.4% 2%;
+  float:right;
+}
+
+.timeR {
+  color: black;
+  font-size: 12px;
+  margin: 1% 10%;
+  padding: 0% 15%;
+  text-align: right;
+}
+
+.boxChatR {
+  background-color: #ffd8de; 
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  margin: 1% 10%;
+  border-radius: 40px 50px 5px 50px;
+  padding: 2% 6%;
+  float:right;
+  border: 1.5px solid #aaa;
+}
+
+.time {
+  color: black;
+  font-size: 12px;
+  margin: 1% 10%;
+  padding: 0% 15%;
+  text-align: center;
+}
+
+.timeL {
+  color: black;
+  font-size: 12px;
+  margin: 1% 10%;
+  padding: 0% 15%;
+  text-align: left;
+}
+
+.boxChatL {
+  background-color: #d5d5d5d5; 
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  margin: 1% 10%;
+  border-radius: 5px 50px 50px 50px;
+  padding: 2% 6%;
+  float:left;
+  border: 1.5px solid #aaa;
+}
+
+input[type=text2] {
+  background-color:#ebfaf1;
+  width: 60%;
+  float:left;
+  color: black;
+  text-align: left;
+  padding: 1.5% 10%;
+  margin: 2% 20%;
+  box-sizing: border-box;
+  border-radius: 40px;
+  border: 1.5px solid #aaa;
+  
+}
+
+.arrow_icon{ 
+  color: #A2CDBE;
+  padding: 0% 11%;
+  float:right;
+  margin: -9% 3%;
+  font-size: 30.5px;     
+  }
+
+.paperclip_icon{ 
+  color: #d5d5d5;
+  padding: 0% 11%;
+  float:right;
+  margin: -8.3% 12%;
+  font-size: 29px;    
+}
+  
+.button {
+  background-color: #76DEBA; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 12px;
+  box-shadow: 2px 3px 3px rgba(57, 63, 72, 0.3);
+}
+
+.img-circle{ 
+  border-radius: 50%; 
+  width: 60px;
+  height: 60px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+}
+
+.userA{
+  background-image: url(./userA.png);
+}
+
+.userB{
+  background-image: url(./userB.png);
+}
+
+.userC{
+  background-image: url(./userC.png);
+}
+
+.userD{
+  background-image: url(./userD.png);
+}
+
+.userLa{
+  background-image: url(./userLa.png);
+}
+
+.dog1{
+  background-image: url(./dog1.png);
+  border-radius: 20%; 
+  width: 60px;
+  height: 60px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+  text-align:right;
+}
+
+
+
+
